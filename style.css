@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+h1 {
+ color: red;
+  font-size: 8;
+}
+
+ img{
+  display: linear-blocks;
+  flex-directio: column;
+  justify-content: center;
+ }
